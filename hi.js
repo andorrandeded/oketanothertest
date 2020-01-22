@@ -1,3 +1,4 @@
 function aji(){
-  localStorage.setItem("name","ahmed");
+ a=  localStorage.setItem("name","ahmed");
+  console.log(a);
 }
